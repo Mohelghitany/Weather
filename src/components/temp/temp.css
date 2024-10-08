@@ -1,0 +1,42 @@
+.temp-primary{
+    text-align: center;
+    font-size: 150px;
+    font-weight: bold;
+    color: rgb(94, 94, 94);
+}
+.temp-secondary{
+    text-align: start;
+    margin-top: 15px;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(94, 94, 94);
+
+}
+
+.des{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(94, 94, 94);
+}
+
+.hi-primary{
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top:-150px;
+    left: 270px;
+
+}
+.hi-secondary{
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    top: -130px;
+    left: 90px;
+}
+
+.Font{
+    margin-right:15px; 
+    color:rgb(122, 124, 126);   
+    
+}

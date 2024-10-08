@@ -1,0 +1,9 @@
+.small {
+    background-color: rgba(231, 231, 231, 0.625);
+    padding: 15px;
+    border-radius: 25px;
+}
+.time{
+    text-align: center;
+    margin-top: 25px;
+}

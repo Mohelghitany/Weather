@@ -1,0 +1,13 @@
+.big{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* height: 100%; */
+    gap: 30px;
+    
+}
+#bigg{
+    position: relative;
+    top: 60px;
+    left: 47%;
+}

@@ -1,0 +1,35 @@
+
+
+.but{
+    position: absolute;
+    left: 65%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    background-color: #ffffff;
+    cursor: pointer;
+    border: none;
+}
+.form{
+    position: absolute;
+    left: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    background-color: #ffffff;
+    cursor: pointer;
+    
+    
+}
+.input{
+    position: absolute;
+    left: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    background-color: #ffffff;
+    cursor: pointer;
+    border: 1px solid #ffffff;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 5px;
+    
+}

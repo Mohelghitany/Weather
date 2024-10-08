@@ -1,0 +1,36 @@
+.horre {
+    width: 120px;
+    height: 150px;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 2px;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    list-style: none;
+    box-shadow: 0 0 10px #000;
+    text-align: center;
+}
+
+.hle {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    position: relative;
+    top: -90px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+}
+.horre:hover{
+    cursor: pointer;
+    transform: translate(0, -5px);
+}
+#title{
+    margin-left: 25px;
+    margin-bottom: 15px;
+    text-align: center;
+    
+}
